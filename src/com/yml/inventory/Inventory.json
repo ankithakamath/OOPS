@@ -1,0 +1,40 @@
+{
+  "inventory": [
+    {
+      "type": "rice",
+      "name": "Sona Masoori",
+      "weight": 11.0,
+      "pricePerKG": 50.0
+    },
+    {
+      "type": "rice",
+      "name": "Andhra Masoori",
+      "weight": 15.0,
+      "pricePerKG": 40.0
+    },
+    {
+      "type": "pulses",
+      "name": "Green Gram",
+      "weight": 6,
+      "pricePerKG":110.0
+    },
+    {
+      "type": "pulses",
+      "name": "Black Gram",
+      "weight": 7.7,
+      "pricePerKG": 130.0
+    },
+    {
+      "type": "wheat",
+      "name": "Wheat",
+      "weight": 31.0,
+      "pricePerKG": 30.0
+    },
+    {
+      "type": "wheat",
+      "name": "A1 Wheat",
+      "weight": 20.0,
+      "pricePerKG": 45.0
+    }
+  ]
+}
